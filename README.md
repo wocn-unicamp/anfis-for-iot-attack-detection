@@ -126,5 +126,3 @@ A: It acts as a container for all relevant data and results, enabling modular fu
 A: Use `showrule(fis)` to display the fuzzy rules after training.
 
 ---
-
-Let me know if you'd like a version tailored for publishing on MATLAB Central or a simplified README for beginners.
